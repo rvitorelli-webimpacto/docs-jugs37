@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-j8e5gq.rtb-system.online/sitemap.xml
